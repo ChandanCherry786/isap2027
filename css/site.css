@@ -113,7 +113,7 @@ p { margin: 0 0 1em; }
 .facts dt { color: var(--on-green-muted); font-size: 0.8rem; letter-spacing: 1.2px; text-transform: uppercase; padding-top: 3px; }
 .facts dd { margin: 0; color: #fff; }
 .facts dd b { font-family: var(--serif); font-size: 1.3rem; font-weight: 600; }
-.facts dd a { color: inherit; text-decoration-color: var(--gold); }
+.facts dd a { color: #fff; text-decoration: none; }
 .facts dd a:hover { color: var(--gold); }
 .actions { display: flex; flex-wrap: wrap; gap: 12px; margin: 0; }
 .hero-photo { margin: 0; position: relative; min-height: 420px; }
