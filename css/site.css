@@ -53,6 +53,7 @@ p { margin: 0 0 1em; }
 }
 .site-header .wrap { display: flex; align-items: center; gap: 24px; min-height: 72px; }
 .brand { display: flex; align-items: center; gap: 12px; text-decoration: none; color: var(--green); margin-right: auto; }
+.brand:hover { color: var(--live); }
 .brand img { width: 52px; }
 /* Wordmark: capital letters as tall as the 40 px emblem */
 .brand b { font: 700 54px/1 var(--serif); letter-spacing: -0.5px; display: block; white-space: nowrap; }
