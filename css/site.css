@@ -11,8 +11,8 @@
   --gold-text: #8a6414;          /* gold that passes AA on white */
   /* "Live" colour: marks what needs action now (next deadline, primary button).
      Fill works on green and on white; --live-text is the AA tone for text on white. */
-  --live: #b8502a;               /* copper */
-  --live-text: #a3421f;
+  --live: #a8642c;               /* copper (hue 27°, not red) */
+  --live-text: #a05f2a;
   --on-live: #fff;
   --ink: #1f2620;
   --muted: #56645b;
